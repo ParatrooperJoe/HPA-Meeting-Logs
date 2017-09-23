@@ -1,0 +1,10 @@
+[14-Jun-2017 12:48:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';' in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 179
+[14-Jun-2017 12:53:03 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 0, 1' at line 1' in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php:176
+Stack trace:
+#0 /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php(176): PDO->query('SELECT employee...')
+#1 {main}
+  thrown in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 176
+[14-Jun-2017 12:54:15 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 173
+[14-Jun-2017 13:01:48 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 173
+[14-Jun-2017 13:03:14 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 173
+[14-Jun-2017 13:05:35 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/untiemyw/public_html/aitenterprises.com/verizon/includes/render/index3.php on line 173
